@@ -6,7 +6,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/frk1/steamhourboostv2.svg?style=social&label=Stars)](https://github.com/frk1/steamhourboostv2)
 [![GitHub forks](https://img.shields.io/github/forks/frk1/steamhourboostv2.svg?style=social&label=Fork)](https://github.com/frk1/steamhourboostv2)
 
-## steamhourboost coustom test v2
+## steamhourboost custom test v2
 
 This new version natively supports two-factor authentication using the shared secret of your app.
 
